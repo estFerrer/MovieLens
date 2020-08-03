@@ -306,7 +306,7 @@ rm(Effects,final_train_set)
 gc()
 
 # ----------------------------------------- #
-# F) Calculating RMSE on validation dataset #
+# H) Calculating RMSE on validation dataset #
 # ----------------------------------------- #
 
 # 1. Including new variables into validation dataset
